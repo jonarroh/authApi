@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\urieh\\AuthAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|c:\\users\\urieh\\authapi\\authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|c:\\users\\urieh\\authapi\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|c:\\users\\urieh\\authapi\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|c:\\users\\urieh\\authapi\\authapi\\migrations\\20240722165605_change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\migrations\\20240722165605_change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|c:\\users\\urieh\\authapi\\authapi\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|c:\\users\\urieh\\authapi\\authapi\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|c:\\users\\urieh\\authapi\\authapi\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|c:\\users\\urieh\\authapi\\authapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|c:\\users\\urieh\\authapi\\authapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|c:\\users\\urieh\\authapi\\authapi\\migrations\\20240722160220_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C10EE8-3B74-432F-98F5-6792CE5792FD}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\migrations\\20240722160220_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240722165605_change.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Migrations\\20240722165605_change.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20240722165605_change.cs",
+              "ToolTip": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Migrations\\20240722165605_change.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20240722165605_change.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:56:05.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:39:13.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:38:49.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Dtos\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Dtos\\TokenDTO.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\TokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:37:58.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Dtos\\ForgotPasswordDTO.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\ForgotPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Dtos\\ForgotPasswordDTO.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\ForgotPasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:37:12.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAswLYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:10:08.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:04:36.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240722160220_initial.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Migrations\\20240722160220_initial.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20240722160220_initial.cs",
+              "ToolTip": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Migrations\\20240722160220_initial.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20240722160220_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:02:20.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\appsettings.json",
+              "RelativeToolTip": "AuthAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T16:00:19.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\urieh\\AuthAPI\\AuthAPI\\Program.cs",
+              "RelativeToolTip": "AuthAPI\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:00:17.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
